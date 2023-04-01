@@ -12,6 +12,7 @@ const WppButton = () => {
       allowClickAway={true}
       notification={true}
       chatboxHeight={400}
+      darkMode={false}
       // onClick={() => {location.href='/'}}
 
     />
